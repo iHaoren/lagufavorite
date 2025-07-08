@@ -14,5 +14,5 @@ Cocok untuk latihan HTML/CSS
 
 
 🔗 Live Preview:
-
-👉 Klik di sini
+<a href=https://ihaoren.github.io/lagufavorite>
+👉 Klik di sini</a>
