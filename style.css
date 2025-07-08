@@ -4,11 +4,6 @@ body {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    background-image: url(img/image.png);
-    background-attachment: fixed;
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: cover;
 }
 
 .title {
@@ -29,6 +24,11 @@ body {
     font-weight: 500;
     font-family: "Bitcount Grid Double", system-ui;
     color: lightyellow;
+    background-image: url(img/image.png);
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 
 .song {
